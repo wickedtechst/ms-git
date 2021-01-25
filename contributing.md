@@ -4,3 +4,4 @@
 
 * Report Issues
 * Suggest Enhancements
+* Add new branch
